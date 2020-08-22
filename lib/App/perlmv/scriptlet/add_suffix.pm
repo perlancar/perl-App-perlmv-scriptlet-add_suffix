@@ -100,7 +100,7 @@ will rename the files as follow:
  baz.txt-new baz-new.txt-new
 
 
-=head1 SEE ALSO
+=head1 prepend:SEE ALSO
 
 L<App::perlmv::scriptlet::add_prefix>
 
